@@ -12,7 +12,7 @@ using AmongUs.Data;
 using Hazel;
 using Reactor.Utilities.Extensions;
 
-namespace TheOtherRoles
+namespace kTheOtherRoles
 {
     [HarmonyPatch]
     public static class TheOtherRoles
